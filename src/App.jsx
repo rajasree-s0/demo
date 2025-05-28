@@ -17,6 +17,7 @@ function App() {
         </a>
       </div>
       <h1>Vite + React</h1>
+      <button>Branch B2</button>
       <button>Branch B1</button>
       <button>Branch Develop</button>
       <div className="card">
